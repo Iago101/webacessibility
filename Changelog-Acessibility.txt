@@ -1,0 +1,6 @@
+As seguintes mudanças foram realizadas para a melhor acessibilidade web para dificuldades motoras:
+
+-Em todas as páginas, foram aumentados os tamanhos das navegações entre as páginas
+-Na página músicas, foi adicionado um texto de ajuda para navegação pelo teclado, evitando assim dependencia do mouse
+-Os audio players possuem uma area maior para serem clicados e interagidos com o teclado
+-Ná página de loja, todos os botões foram aumentados para facilitar o clique

@@ -1,0 +1,64 @@
+/* Cores:
+Dark red : #4b0000
+Bright Red : #c23434
+Orange : #f7863a
+ */
+ body{
+    background-color: #4b0000; 
+    margin: 0px;
+    min-height: 100vh
+}
+
+.strong-red-bg{
+    background-color: #4b0000; 
+}
+
+.mild-red-bg{
+    background-color: #c23434; 
+}
+
+.orange-bg{
+    background-color: #f7863a; 
+}
+
+header{
+    background-color:#c23434;
+    height:90px
+}
+
+.header-title{
+    color:#ffffff;
+    margin:0px; 
+    text-align:center; 
+    font-size:50px
+}
+
+.navigation-menu{
+    background-color:#f7863a; 
+    height:70px; 
+    text-align:center
+}
+
+.navigation-item{
+    margin:0px 35px;
+    font-size: 50px;
+}
+
+.main-text{
+    color: white;
+}
+
+.main-title{
+    color: #c23434;
+    font-style: italic;
+}
+
+audio{
+    height: 200px;
+    background-color: #f7863a;
+}
+
+button{
+    width: 120px;
+    height: 130px;
+}
